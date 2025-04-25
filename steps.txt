@@ -1,0 +1,13 @@
+git config --global user.name brunalopes1996
+git config --global user.email bruuna.oliveiraa1@gmail.com
+
+Criar um projeto Angular:
+ng new todo
+
+Executar o projeto
+ng serve -o
+
+Criar um componente
+ng g c todo-list
+
+npm i bootstrap
